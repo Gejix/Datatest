@@ -4,4 +4,3 @@
 
 ### Technologies
 * Jupyter notebook
-* Watson Studio
